@@ -10,11 +10,11 @@
         "react-scripts": "1.0.14"
     },
     "scripts": {
-        "start": "react-scripts start",
+        "starter": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test --env=jsdom",
         "eject": "react-scripts eject",
-        "dev": "concurrently \"npm run build\" \"nodemon server\" "
+        "start": "concurrently \"npm run build\" \"nodemon server\" "
     },
     "devDependencies": {
         "concurrently": "^3.5.0",
