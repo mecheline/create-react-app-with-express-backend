@@ -1,0 +1,13 @@
+body {
+  background-color: rgba(195, 203, 200, 0.33);
+}
+
+.panel-body li {
+    list-style-type: none;
+    color: black;
+}
+.navbar-default {
+    background-color: #FFF;
+    color: black;
+}
+

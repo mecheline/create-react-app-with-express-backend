@@ -1,0 +1,47 @@
+body {
+  background-color: rgba(195, 203, 200, 0.33);
+}
+
+.panel-body li {
+    list-style-type: none;
+    color: black;
+}
+.navbar-default {
+    background-color: #FFF;
+    color: black;
+}
+.list-group li a:visited, .panel-footer a:link{
+	color: black;
+    
+}
+
+.top_footer {
+    font-size: 10px;
+}
+footer {
+    background-color:rgba(50, 45, 45, 0.9);
+    color: white;
+}
+.footer_content h5{
+    color: lightgray;
+    font-weight: bold;
+}
+.clearBox{
+   padding-left:0px;
+    padding-right:0px;
+}
+
+.panel {
+    line-height: 35px;
+    
+}
+
+hr {
+    border-color: grey;
+}
+.logo {
+    padding-right: 15px;
+}
+.endnote {
+    text-align: center;
+}
